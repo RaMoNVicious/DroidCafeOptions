@@ -1,4 +1,4 @@
-package ua.edu.sumdu.droidcage;
+package ua.edu.sumdu.droidcafeoptions;
 
 import org.junit.Test;
 

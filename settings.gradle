@@ -12,5 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "DroidCage"
+rootProject.name = "DroidCafe"
 include ':app'

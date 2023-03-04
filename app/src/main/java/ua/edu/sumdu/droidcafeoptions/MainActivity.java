@@ -1,4 +1,4 @@
-package ua.edu.sumdu.droidcage;
+package ua.edu.sumdu.droidcafeoptions;
 
 import android.content.Intent;
 import androidx.appcompat.app.AppCompatActivity;

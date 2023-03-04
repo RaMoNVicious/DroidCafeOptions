@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'ua.edu.sumdu.droidcage'
+    namespace 'ua.edu.sumdu.droidcafeoptions'
     compileSdk 33
 
     defaultConfig {
-        applicationId "ua.edu.sumdu.droidcage"
+        applicationId "ua.edu.sumdu.droidcafeoptions"
         minSdk 24
         targetSdk 33
         versionCode 1
